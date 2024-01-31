@@ -284,7 +284,7 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    createdAt: 1688899480536,
+    createdAt: 1688899480531,
   },
   {
     avatar: "1f4b8",
